@@ -1,0 +1,12 @@
+*.pyc
+*~
+__pycache__
+
+*.py[cod] 
+*$py.class
+
+*.key
+*.credentials
+
+venv/
+
